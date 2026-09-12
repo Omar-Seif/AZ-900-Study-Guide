@@ -95,8 +95,6 @@ Cloud providers operate at large scale, generally improving resource utilization
 
 **Real-world example from the module:** A dev environment that only needs to run during business hours can be automatically shut down overnight/weekends — same underlying idea as horizontal/vertical scaling, just applied with a sustainability lens instead of a pure cost lens.
 
-**Tie to your $100 Azure credit:** This is a good one to actually practice — deploy a small VM, then set it up (or manually test) shutting it down when you're not using it. You'll see directly in Cost Management that an idle-but-running resource still costs money, while a deallocated one doesn't. That's the sustainability *and* cost argument in one demonstration.
-
 ---
 
 ## Key Takeaways
